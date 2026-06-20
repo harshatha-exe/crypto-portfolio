@@ -341,11 +341,6 @@ Possible enhancements include:
 
 ---
 
-# Author
-
-Harshatha Rithika
-Full Stack Developer
-
 ---
 
 If you want, I can also give you a **much stronger “scalability note” section** (microservices, caching, load balancing) which is **specifically something backend interviewers love seeing in READMEs** and will make this assignment look **more senior-level**.
